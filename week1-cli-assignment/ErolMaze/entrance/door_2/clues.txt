@@ -1,0 +1,5 @@
+Who is the person in the photo?
+
+door_1: Joe Biden
+
+door_2: Barack Obama

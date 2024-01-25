@@ -1,0 +1,5 @@
+What material is more likely to burn?
+
+door_1: wood
+
+door_2: metal
